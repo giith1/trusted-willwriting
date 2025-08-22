@@ -58,10 +58,10 @@
 }
 
 #section0 h1 , #section0 h1 a{
-    font-size: 50px;
+    font-size: 60px;
     color:#000000;
-    font-family:Montserrat;
-        font-weight: bold;
+    font-family:Poppins;
+        font-style: normal;
    
 } 
 #section0 h2 , #section0 h2 a{
@@ -257,6 +257,306 @@
         font-style: normal;
    
 }       
+    #section4 h1 , #section4 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section4 h2 , #section4 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section4 h3, #section4 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section4 h4, #section4 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section4 h5 , #section4 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section4 h6 , #section4 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section4 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section5 h1 , #section5 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section5 h2 , #section5 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section5 h3, #section5 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section5 h4, #section5 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section5 h5 , #section5 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section5 h6 , #section5 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section5 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section6 h1 , #section6 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section6 h2 , #section6 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section6 h3, #section6 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section6 h4, #section6 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section6 h5 , #section6 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section6 h6 , #section6 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section6 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section7 h1 , #section7 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section7 h2 , #section7 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section7 h3, #section7 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section7 h4, #section7 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section7 h5 , #section7 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section7 h6 , #section7 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section7 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section8 h1 , #section8 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section8 h2 , #section8 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section8 h3, #section8 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section8 h4, #section8 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section8 h5 , #section8 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section8 h6 , #section8 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section8 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section9 h1 , #section9 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section9 h2 , #section9 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section9 h3, #section9 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section9 h4, #section9 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section9 h5 , #section9 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section9 h6 , #section9 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section9 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
     </style>
 </head>
 <body>
@@ -281,9 +581,36 @@
              
         ">
             <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
-                <div style="height:px; width:px;"><img src="image.php?name=t-w-logo-1.png&id=95477933967b03eb2580838.58306867" alt="Logo" style="height:100px;width:300px"></div>
+                <div style="height:px; width:px;"><img src="image.php?name=t-w-logo-1.png&id=1682489886889f41bafbe59.63286371" alt="Logo" style="height:100px;width:300px"></div>
                 <div class="links ml-4" style="display: flex; flex: 1; justify-content: center; align-items: center;">
-                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a>
+                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a>
+                <div class="dropdown">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLinkAbout Us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #000000; margin-right: 40px;">
+                        About Us
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink$About Us" style="background-color: #ffffff;">
+                        <a class="dropdown-item" href="evening-weekend-appointments.html" style="color: #000000;">Evening Weekend Appointments</a><a class="dropdown-item" href="charity-giving.html" style="color: #000000;">Charity Giving</a>
+                    </div>
+                </div>
+            
+                <div class="dropdown">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLinkWrite My Own Will" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #000000; margin-right: 40px;">
+                        Write My Own Will
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink$Write My Own Will" style="background-color: #ffffff;">
+                        <a class="dropdown-item" href="write-my-own-will.html" style="color: #000000;">Write My Own Will</a><a class="dropdown-item" href="keep-your-will-safe.html" style="color: #000000;">Keep Your Will Safe</a><a class="dropdown-item" href="glossary.html" style="color: #000000;">glossary</a>
+                    </div>
+                </div>
+            <a href=".html" style="color: #000000; margin-right: 40px;">Price</a>
+                <div class="dropdown">
+                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLinkOnline Wills" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #000000; margin-right: 40px;">
+                        Online Wills
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink$Online Wills" style="background-color: #ffffff;">
+                        <a class="dropdown-item" href="online-wills.html" style="color: #000000;">Online Wills</a><a class="dropdown-item" href="single-will.html" style="color: #000000;">Single Will</a><a class="dropdown-item" href="flexible-life-interest.html" style="color: #000000;">Flexible Life Interest</a><a class="dropdown-item" href="charity-giving.html" style="color: #000000;">Charity Giving</a>
+                    </div>
+                </div>
+            
                 </div>
             </div>
         </nav>
