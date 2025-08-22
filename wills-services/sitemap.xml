@@ -6,26 +6,66 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>index.html</loc>
-                 <lastmod>2025-02-15T12:49:38+00:00</lastmod>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>index.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2025-02-15T12:49:38+00:00</lastmod>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>write-my-own-will.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>keep-your-will-safe.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>price.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>online-wills.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>evening-weekend-appointments.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>glossary.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>flexible-life-interest.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>charity-giving.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>single-will.html</loc>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2025-02-15T12:49:38+00:00</lastmod>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2025-02-15T12:49:38+00:00</lastmod>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2025-02-15T12:49:38+00:00</lastmod>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2025-02-15T12:49:38+00:00</lastmod>
+                 <lastmod>2025-08-22T09:05:54+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
